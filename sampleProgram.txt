@@ -1,0 +1,56 @@
+Welcome to the Shop!
+
+Available products:
+- Cheese (5)
+- Bread (2)
+- Book (10)
+- Laptop (1000)
+- Scratch Card (1)
+
+Enter the name of the product you want to add to your cart: Laptop
+Enter the quantity: 1
+1x Laptop added to your cart.
+
+Do you want to add more items? (y/n): y
+
+Available products:
+- Cheese (5)
+- Bread (2)
+- Book (10)
+- Laptop (1000)
+- Scratch Card (1)
+
+Enter the name of the product you want to add to your cart: Book
+Enter the quantity: 3
+3x Book added to your cart.
+
+Do you want to add more items? (y/n): y
+
+Available products:
+- Cheese (5)
+- Bread (2)
+- Book (10)
+- Laptop (1000)
+- Scratch Card (1)
+
+Enter the name of the product you want to add to your cart: Scratch Card
+Enter the quantity: 20
+20x Scratch Card added to your cart.
+
+Do you want to add more items? (y/n): n
+
+Proceeding to checkout...
+** Shipping notice **
+3x Book	900g
+1x Laptop	2.5Kg
+Total package weight 3.4Kg
+
+** Checkout Receipt **
+20x Scratch Card	20
+3x Book	30
+1x Laptop	1000
+----------------------------
+Subtotal	1050
+Shipping	17
+Amount	1067
+Checkout successful! Remaining balance: 1933
